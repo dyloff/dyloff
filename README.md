@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BarHop](https://www.barhop.tech)
 
-- 🌱 I’m currently learning **React, MERN stack & Harvad's CS50 course**
+- 🌱 I’m learning **React, Python, MERN stack & taking Harvad's CS50 course**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
