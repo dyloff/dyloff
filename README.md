@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dylon</h1>
 <h3 align="center">Former Finance Analyst turned Full-stack developer from London</h3>
 
-- 🔭 I’m currently working on [BarHop](https://github.com/dyloff/barhop)
+- 🔭 I’m currently working on [BarHop](https://www.barhop.tech)
 
 - 🌱 I’m currently learning **React, MERN stack & Harvad's CS50 course**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
-
-- 💬 Ask me about **Ruby-on-Rails,Venture Capital**
 
 - 📫 How to reach me **dhmarwaha@gmail.com**
 
