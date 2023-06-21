@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BarHop](https://www.barhop.tech)
 
-- 🌱 I’m learning **Python asnd the MERN stack**
+- 🌱 I’m learning **Python and the MERN stack**
 
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
